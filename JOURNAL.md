@@ -16,11 +16,20 @@ To do: Need to color it up and add eyes. Add maybe rounding to make it a little 
 
   
 
-## 11/3/2025 - Added colors to my model  
+## 11/3/2025 4 PM - Added colors to my model  
 
 Changed of the panda from plain orange color to white and black by adding more cubes of different sizes to get that minecraft look, also added eyes and ears. pretty much finished with the whole panda
 
 ![Screenshot 2025-11-03 at 3.59.28 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--557dcf3169c25b0b2324efd3267c41569ab32ca8/Screenshot%202025-11-03%20at%203.59.28%E2%80%AFPM.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--76b7133488b0b3bab612d7adda43f9416a1204d6/image.png)
+  
+
+## 11/3/2025 7 PM - Fixed a error  
+
+I noticed that the back of the panda has doesnt have proper boxes on the left side. fixed that.
+there is no tail too. fixed too
+on the right side the lines get a blue gradient for some reason. fixed too
+final journal..
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7ebfe7574cc48842a4c941bf28f5acbd8de25c7e/image.png)
   
 
